@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaranshRegmi10
-- 👀 I’m interested in Web Development and Graphics Designing.
+- 👀 I’m interested in Software Development using python
 - 🌱 I’m currently learning Computer Science and Information Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ==> regmisaransh7@gmail.com
